@@ -1,0 +1,56 @@
+/* used for full site  */
+
+
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.full_site_text {
+    color: rgba(39, 39, 39, 0.60);
+}
+
+/* header style */
+.banner_text {
+    width: 450px;
+    padding: 120px 0 130px 0;
+}
+
+.banner_container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: rgba(229, 84, 115, 0.10);
+    padding: 30px 110px 0px 110px;
+    height: 500px;
+
+}
+
+.banner_photo {
+    width: 340px;
+    height: 490px;
+    padding-top: 12px;
+
+}
+
+.btn {
+    padding: 16px 30px;
+    border-radius: 8px;
+    background: #E55473;
+    font-size: 15px;
+    border: none;
+    background-size: cover;
+    color: #FFF;
+    font-weight: 600;
+}
+
+.banner_title {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+/*  Main Body Style */
+
