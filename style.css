@@ -347,12 +347,14 @@
     font-weight: 120;
     padding: 14px;
 }
+
 .span11 {
     color: #FFFFFF;
     font-family: Lato;
     font-size: 30px;
     font-weight: 700;
 }
+
 .span22 {
     color: rgba(255, 255, 255, 0.40);
     text-align: center;
