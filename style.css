@@ -4,7 +4,7 @@
 * {
     padding: 0px;
     margin: 0px;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Lato';
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -44,6 +44,7 @@
     background-size: cover;
     color: #FFF;
     font-weight: 600;
+    font-family: Lato;
 }
 
 .banner_title {
@@ -194,6 +195,7 @@
     font-size: 21px;
     font-weight: 550;
 }
+
 .instagram_section_text p {
     color: rgba(39, 39, 39, 0.60);
     font-size: 14px;
@@ -209,4 +211,51 @@
 .ins_img_deco {
     width: 200px;
     height: 220px;
+}
+
+/* subscribe section  */
+
+.subscribe_section {
+    background-image: url(images/Rectangle\ 9.png);
+    text-align: center;
+    width: 900px;
+    height: 300px;
+    margin-left: 180px;
+    background-size: cover;
+    border-radius: 8px;
+    margin-bottom: 80px;
+}
+
+.sub_sec_heading {
+    color: #272727;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 900;
+    padding: 70px 70px 10px 70px;
+}
+
+.ent_email {
+    border-radius: 8px;
+    width: 440px;
+    height: 48px;
+    padding-left: 10px;
+    border: none;
+    margin-right: 10px;
+}
+
+.subscribe_section p {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 13px;
+    font-weight: 190;
+
+}
+
+.subscribe_section button {
+    color: #FFF;
+    font-family: Lato;
+    font-size: 15px;
+    font-weight: 200;
+    
 }
