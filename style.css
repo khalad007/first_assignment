@@ -177,6 +177,36 @@
     font-weight: 200;
     width: 340px;
 }
+
 .hot_deals_text span {
     color: #E55473;
+}
+
+/* instagram section  */
+.instagram_section_text {
+    text-align: center;
+    margin: 90px 165px 100px 165px;
+}
+
+.instagram_section_text h3 {
+    color: #272727;
+    text-align: center;
+    font-size: 21px;
+    font-weight: 550;
+}
+.instagram_section_text p {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 14px;
+    font-weight: 200;
+}
+
+.ins_img_conatainer {
+    display: flex;
+    justify-content: space-around;
+    margin: 25px 165px 100px 165px;
+}
+
+.ins_img_deco {
+    width: 200px;
+    height: 220px;
 }
